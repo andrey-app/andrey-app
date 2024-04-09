@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Andrey 😁
+## Bem-vindo(a) ao perfil do Andrey 😎
 
  <div>
    <a href="https://github.com/andrey-app">
